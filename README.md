@@ -8,6 +8,7 @@ Bem-vindo(a) ao meu repositório de estudos! Este espaço foi criado para docume
 ## 🎯 Objetivo
 O propósito deste repositório é servir como um diário de bordo do meu aprendizado e um portfólio da minha evolução com a programação. Aqui você encontrará minhas anotações, lógicas de resolução de problemas e os códigos que desenvolvi ao longo das aulas.
 
+
 ## 📂 Estrutura do Repositório
 
 Para manter tudo organizado e facilitar a consulta, o repositório está dividido da seguinte forma:
@@ -16,9 +17,11 @@ Para manter tudo organizado e facilitar a consulta, o repositório está dividid
 * 📁 **`exercicios/`**: Scripts focados na resolução dos desafios e listas de exercícios propostos no curso.
 * 📁 **`projetos/`**: Aplicações um pouco mais elaboradas, unindo os conceitos aprendidos em pequenos projetos práticos.
 
+
 ## 🛠️ Tecnologias Utilizadas
 * **Linguagem:** Python 3.12.3
 * **Versionamento:** Git e GitHub
+
 
 ## ⚙️ Como executar os códigos
 
