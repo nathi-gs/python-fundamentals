@@ -16,6 +16,7 @@ Para manter tudo organizado e facilitar a consulta, o repositório está dividid
 * 📁 **`teoria/`**: Resumos, sintaxes, anotações de aulas e conceitos fundamentais da linguagem.
 * 📁 **`exercicios/`**: Scripts focados na resolução dos desafios e listas de exercícios propostos no curso.
 * 📁 **`projetos/`**: Aplicações um pouco mais elaboradas, unindo os conceitos aprendidos em pequenos projetos práticos.
+* 📁 **`git-github/`**: Guia de comandos rápidos, conceitos de versionamento e anotações sobre o uso do Git e GitHub.
 
 
 ## 🛠️ Tecnologias Utilizadas
